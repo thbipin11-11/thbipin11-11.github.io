@@ -1,0 +1,1 @@
+const h=document.querySelector('header'),m=document.querySelector('#menu');m.onclick=()=>h.classList.toggle('open');document.querySelectorAll('nav a').forEach(a=>a.onclick=()=>h.classList.remove('open'));

@@ -1,0 +1,1 @@
+Open index.html in a browser. Keep assets/profile-photo.png beside it. Upload the complete folder to GitHub Pages, Netlify or Vercel.
